@@ -1,0 +1,22 @@
+artifact_path: file:///Users/nabin/Desktop/AIT%20Data%20Science/First%20Semester/Machine%20Learning/Python-for-Machine-Learning/Practice%20Folder/mlruns/0/models/m-ae5f03ec51bc4badb03f3f78ea0bc532/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.13
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+mlflow_version: 3.3.2
+model_id: m-ae5f03ec51bc4badb03f3f78ea0bc532
+model_size_bytes: 3165331
+model_uuid: m-ae5f03ec51bc4badb03f3f78ea0bc532
+prompts: null
+run_id: 7dd3f25d406a43ae9b2e68d1093e05ed
+utc_time_created: '2025-09-03 15:08:37.843748'

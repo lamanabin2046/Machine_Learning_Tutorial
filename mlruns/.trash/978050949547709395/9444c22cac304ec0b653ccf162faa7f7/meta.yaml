@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/978050949547709395/9444c22cac304ec0b653ccf162faa7f7/artifacts
+deleted_time: 1756912442229
+end_time: null
+entry_point_name: ''
+experiment_id: '978050949547709395'
+lifecycle_stage: deleted
+run_id: 9444c22cac304ec0b653ccf162faa7f7
+run_name: method-mini-lr-0.1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756911678568
+status: 1
+tags: []
+user_id: chaky

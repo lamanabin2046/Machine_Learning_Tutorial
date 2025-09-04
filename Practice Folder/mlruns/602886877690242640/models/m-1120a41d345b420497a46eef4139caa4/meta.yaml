@@ -1,0 +1,10 @@
+artifact_location: file:///Users/nabin/Desktop/AIT%20Data%20Science/First%20Semester/Machine%20Learning/Python-for-Machine-Learning/Practice%20Folder/mlruns/602886877690242640/models/m-1120a41d345b420497a46eef4139caa4/artifacts
+creation_timestamp: 1756912243368
+experiment_id: '602886877690242640'
+last_updated_timestamp: 1756912247583
+model_id: m-1120a41d345b420497a46eef4139caa4
+model_type: null
+name: model
+source_run_id: 917f9a054c6b44e892e698dd87d61bd0
+status: 2
+status_message: null
